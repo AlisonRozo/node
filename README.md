@@ -36,7 +36,7 @@ Ensure that you have mongoDB installed on your machine before running the applic
 Start mongoDB:
 
 ```bash
-sudo mongod
+sudo docker-compose up -d
 ```
 
 ### Run the application
